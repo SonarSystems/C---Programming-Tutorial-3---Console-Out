@@ -1,4 +1,4 @@
-C---Programming-Tutorial-3---Console-Out
+C++ Programming Tutorial 3 - Console Out
 ========================================
 
-Code for the following video tutorial 
+Code for the following video tutorial http://youtu.be/hhmAApfUOhQ
